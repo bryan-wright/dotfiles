@@ -1,7 +1,7 @@
 # dotfiles
 Configuration Files
 
-i3/\n
-.emacs\n
-.vimrc\n
-.zshrc\n
+i3/
+.emacs
+.vimrc
+.zshrc
