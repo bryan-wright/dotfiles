@@ -10,4 +10,4 @@ set shiftwidth=4
 
 " Theme and Colorshame
 set background=dark
-colorscheme Delek
+colorscheme delek
